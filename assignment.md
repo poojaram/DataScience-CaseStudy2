@@ -111,6 +111,11 @@ Probaility of observing exactly 4 success from 100 trials = 0.19938
 
 **Therefore, the probability that exactly 4 people would register when 100 people are approached is 19.94%.**
 
+Expected Value:
+<dd>E(x) = nxp </dd>
+E(x) = 100 * 0.04 = 4
+
+**The expected number of people to register is 4**.
 
 ## Foundations for Inference (Ch. 4)
 1. Define the terms **standard error** and **standard deviation**. Then, using a hypothetical example _not in the textbook_, describe a situation in which you could compute the two, and highlight how they are different (hint: your answer should include a description of how to generate a **sampling distribution**).  _(7 points)_
